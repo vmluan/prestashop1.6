@@ -5725,7 +5725,9 @@ textarea {
 #columns {
   position: relative;
   padding-bottom: 50px;
-  padding-top: 15px; }
+  /*padding-top: 15px;*/
+  padding-top: 0px
+}
 
 #index .tab-content {
   margin-top: 35px;
@@ -5735,7 +5737,9 @@ header {
   z-index: 1;
   position: relative;
   background: #fff;
-  padding-bottom: 15px; }
+  /*padding-bottom: 15px;*/
+  padding-bottom: 5px;
+}
   header .banner {
     background: black;
     max-height: 100%; }
@@ -7149,7 +7153,8 @@ div.star a:hover {
   -webkit-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
-  margin-bottom: 16px;
+  /*margin-bottom: 16px;*/ /*Luan updated*/
+  margin-bottom: 5px;
   position: relative;
   z-index: 1; }
   .breadcrumb .navigation-pipe {

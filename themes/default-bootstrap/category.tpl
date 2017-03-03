@@ -45,7 +45,7 @@
                     </div>
 				{else}
                     <!-- Category image of Luan -->
-                    <div class="content_scene_cat_bg"{if $category->id_image} style="background:url({$link->getCatImageLink($category->link_rewrite, $category->id_image, 'category_default')|escape:'html':'UTF-8'}) right center no-repeat; background-size:cover; min-height:{$categorySize.height}px;"{/if}>
+                    <!--div class="content_scene_cat_bg"{if $category->id_image} style="background:url({$link->getCatImageLink($category->link_rewrite, $category->id_image, 'category_default')|escape:'html':'UTF-8'}) right center no-repeat; background-size:cover; min-height:{$categorySize.height}px;"{/if}>
                         {if $category->description}
                             <div class="cat_desc">
                             <span class="category-name">
@@ -65,7 +65,7 @@
                             {/if}
                             </div>
                         {/if}
-                     </div>
+                     </div-->
                   {/if}
             </div>
 		{/if}
@@ -73,7 +73,7 @@
 		{if isset($subcategories)}
         {if (isset($display_subcategories) && $display_subcategories eq 1) || !isset($display_subcategories) }
 		<!-- Subcategories -->
-		<div id="subcategories">
+		<!--div id="subcategories">
 			<p class="subcategory-heading">{l s='Subcategories'}</p>
 			<ul class="clearfix">
 			{foreach from=$subcategories item=subcategory}
@@ -94,7 +94,7 @@
 				</li>
 			{/foreach}
 			</ul>
-		</div>
+		</div-->
         {/if}
 		{/if}
 		{if $products}
