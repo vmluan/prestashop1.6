@@ -1,16 +1,16 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Hi {firstname} {lastname}, 
+Gửi {firstname} {lastname}, 
 
 We have created a voucher in your name for referring a friend.
 
-Here is the code of your voucher: {voucher_num}, with an amount of
+Mã phiếu khuyến mại: {voucher_num}, với tổng số là
 {voucher_amount}.
 
-Simply copy/paste this code during the payment process for your next
-order. 		 
+Hãy nhập mã này trong quá trình thanh toán đơn đặt hàng
+tiếp theo. 		 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

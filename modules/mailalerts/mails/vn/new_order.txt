@@ -1,44 +1,44 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Congratulations! 
+Chúc mừng! 
 
-A new order was placed on {shop_name} by the following customer:
-{firstname} {lastname} ({email}) 
+Một đặt hàng mới được đặt trên {shop_name} bởi
+khách hàng sau: {firstname} {lastname} ({email}) 
 
-ORDER: {order_name} Placed on {date}
+ĐƠN HÀNG: {order_name} Khởi tạo ngày {date}
 
-PAYMENT: {payment} 		 
+PHƯƠNG THỨC THANH TOÁN: {payment} 		 
 
-REFERENCE
+MẪU
 
-PRODUCT
+SẢN PHẨM
 
-UNIT PRICE
+ĐƠN GIÁ
 
-QUANTITY
+SỐ LƯỢNG
 
-TOTAL PRICE
+TỔNG GIÁ
 
 {items} 
 
-PRODUCTS 
+SẢN PHẨM 
 
 {total_products} 
 
-DISCOUNTS 
+GIẢM GIÁ 
 
 {total_discounts} 
 
-GIFT-WRAPPING 
+GÓI QUÀ 
 
 {total_wrapping} 
 
-SHIPPING 
+VẬN CHUYỂN 
 
 {total_shipping} 
 
-TOTAL TAX PAID 
+TỔNG THUẾ ĐÃ THANH TOÁN 
 
 {total_tax_paid} 
 
@@ -54,6 +54,6 @@ TOTAL PAID
 
 {message} 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

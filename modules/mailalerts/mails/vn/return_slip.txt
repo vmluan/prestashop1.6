@@ -1,36 +1,36 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Hi, 
+Xin chào, 
 
 You have received a new return request for {shop_name}. 
 
-Return details 
+Chi tiết phần trả lại 
 
-ORDER: {order_name} Placed on {date}
+ĐƠN HÀNG: {order_name} được đặt lúc{date}
 
-CUSTOMER: {firstname} {lastname}, ({email}) 
+KHÁCH HÀNG: {firstname} {lastname}, ({email}) 
 
-REFERENCE
+MẪU
 
-PRODUCT
+SẢN PHẨM
 
-QUANTITY
+SỐ LƯỢNG
 
 {items} 
 
-Delivery address
+Địa chỉ giao hàng
 
 {delivery_block_html} 		 
 
-Billing address
+Địa chỉ thanh toán
 
 {invoice_block_html} 
 
-Customer message: 
+Tin nhắn của khách hàng: 
 
 {message} 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

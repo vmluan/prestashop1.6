@@ -1,14 +1,11 @@
+
 [{shop_url}] 
 
-Hi {name},
+Gửi {name},
 
-
-{customer} has sent you a link to a product that (s)he thinks may
-interest you. 
-
-Click here to view this item: {product}
+Nhấn vào đây để xem chi tiết: {product}
 [{product_link}] 
 
-{shop_name} [{shop_url}] powered by
+{shop_name} [{shop_url}] dựa trên nền tảng
 PrestaShop(tm) [http://www.prestashop.com/] 
 

@@ -1,16 +1,18 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Congratulations! 
+Chúc mừng! 
 
-Your referred friend {sponsored_firstname} {sponsored_lastname} has
-placed his or her first order on {shop_name} [/{shop_url}]!
+Bạn của bạn {sponsored_firstname} {sponsored_lastname} đã
+đã đăn đơn hàng đầu tiên tại {shop_name}
+[{shop_url}]!
 
-We are pleased to offer you a voucher worth {discount_display}
-(VOUCHER # {discount_name}) that you can use on your next order. 		 
+Chúng tôi rất vui được gửi tặng bạn phiếu giảm giá
+{discount_display} (# {discount_name}) để sử dụng cho lần
+đặt hàng sau. 		 
 
-Best regards, 
+Trân trọng, 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

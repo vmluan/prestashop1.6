@@ -1,16 +1,15 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Hi, 
+Xin chào, 
 
-The remaining stock is now less than the specified minimum of
-{last_qty}.
+Không đủ hàng, chỉ còn dưới {last_qty}.
 
-REMAINING STOCK: {qty}
+SỐ LƯỢNG TRONG KHO: {qty}
 
-You are advised to open the product's admin Product Page in order to
-replenish your inventory. 		 
+Bạn cần kiểm tra danh mục sản phẩm để bổ sung thêm
+hàng. 		 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

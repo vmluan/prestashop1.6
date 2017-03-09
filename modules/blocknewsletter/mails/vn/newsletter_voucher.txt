@@ -1,11 +1,11 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Hi, 
+Xin chào, 
 
-Regarding your newsletter subscription, we are pleased to offer
-you the following voucher: {discount} 
+Bạn vừa đăng kí thành công, và đây là mã giảm giá
+dành riêng cho bạn: {discount} 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 

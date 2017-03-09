@@ -1,13 +1,14 @@
 
-[/{shop_url}] 
+[{shop_url}] 
 
-Hi, 
+Xin chào, 
 
-{shop_name} invites you to send this link to your friends, so they
-can see your wishlist: {wishlist}
+{shop_name} mời bạn gửi link này cho bạn bè, để họ có
+thể cũng có thể thấy danh sách sản phẩm của bạn:
+{wishlist}
 
-{message} [/{message}] 		 
+{message} [{message}] 		 
 
-{shop_name} [/{shop_url}] powered by PrestaShop(tm)
-[http://www.prestashop.com/] 
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
 
