@@ -5746,7 +5746,9 @@ header {
     header .banner .row {
       margin: 0px; }
   header .nav {
-    background: #333; }
+    /*background: #333;*/
+    background:#88b04b;
+  }
     header .nav .row {
       margin: 0px; }
     header .nav nav {
@@ -6494,7 +6496,7 @@ table.table_block td {
       border: none; }
   #home-page-tabs > li.active a,
   #home-page-tabs > li a:hover {
-    background: #333;
+    background: #88b04b;
     color: #fff;
     padding: 10px; }
     @media (min-width: 768px) {
@@ -7238,11 +7240,13 @@ div.star a:hover {
   background-color: #333; }
   @media (min-width: 768px) {
     .footer-container {
-      background: url(../img/footer-bg.png) repeat-x #333; } }
+      /*background: url(../img/footer-bg.png) repeat-x #88b04b;*/
+      background:#88b04b;
+    } }
   .footer-container .container {
     padding-bottom: 100px; }
   .footer-container #footer {
-    color: #777777; }
+    color: #ffffff; }
     .footer-container #footer .row {
       position: relative; }
     .footer-container #footer ul.row {
@@ -7253,7 +7257,9 @@ div.star a:hover {
         .footer-container #footer .footer-block {
           margin-top: 20px; } }
     .footer-container #footer a {
-      color: #777777; }
+      /*color: #777777;*/
+      color: #ffffff;
+    }
       .footer-container #footer a:hover {
         color: #fff; }
     .footer-container #footer h4 {
@@ -7306,7 +7312,9 @@ div.star a:hover {
             text-align: center;
             padding-right: 12px;
             float: left;
-            color: #908f8f; }
+            /*color: #908f8f;*/
+            color: #ffffff;
+          }
     .footer-container #footer .blockcategories_footer {
       clear: left; }
     .footer-container #footer #social_block {
@@ -7332,7 +7340,7 @@ div.star a:hover {
               width: 30px; } }
           .footer-container #footer #social_block ul li a {
             display: inline-block;
-            color: #908f8f;
+            color: #ffffff;
             font-size: 28px; }
             @media (min-width: 768px) and (max-width: 991px) {
               .footer-container #footer #social_block ul li a {
