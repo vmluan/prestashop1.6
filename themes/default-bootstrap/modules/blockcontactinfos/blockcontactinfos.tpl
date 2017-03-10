@@ -42,10 +42,17 @@
             {/if}
             {if $blockcontactinfos_email != ''}
             	<li>
-            		<i class="icon-envelope-alt"></i>{l s='Email:' mod='blockcontactinfos'} 
+            		<i class="icon-envelope-alt"></i>{l s='Email:' mod='blockcontactinfos'}
             		<span>{mailto address=$blockcontactinfos_email|escape:'html':'UTF-8' encode="hex"}</span>
             	</li>
             {/if}
+			{*blockcontactinfos_design_by*}
+			{if $blockcontactinfos_design_by != ''}
+				<li>
+					<i class=""></i>{l s='Design by:' mod='blockcontactinfos'}
+					<span>{$blockcontactinfos_design_by|escape:'html':'UTF-8'}</span>
+				</li>
+			{/if}
         </ul>
     </div>
 </section>
