@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-03-03 03:58:43
+<?php /* Smarty version Smarty-3.1.19, created on 2017-03-09 14:56:56
          compiled from "/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/products-comparison.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:172149808958b8dbe3567547-99821513%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:50794299958c10ac89c2184-15693826%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '172149808958b8dbe3567547-99821513',
+  'nocache_hash' => '50794299958c10ac89c2184-15693826',
   'function' => 
   array (
   ),
@@ -44,9 +44,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58b8dbe36991a4_89287190',
+  'unifunc' => 'content_58c10ac8b3d8f8_69414191',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58b8dbe36991a4_89287190')) {function content_58b8dbe36991a4_89287190($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/Applications/MAMP/htdocs/hoang2/tools/smarty/plugins/function.math.php';
+<?php if ($_valid && !is_callable('content_58c10ac8b3d8f8_69414191')) {function content_58c10ac8b3d8f8_69414191($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/Applications/MAMP/htdocs/hoang2/tools/smarty/plugins/function.math.php';
 if (!is_callable('smarty_function_cycle')) include '/Applications/MAMP/htdocs/hoang2/tools/smarty/plugins/function.cycle.php';
 ?>
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?><?php echo smartyTranslate(array('s'=>'Product Comparison'),$_smarty_tpl);?>
@@ -135,7 +135,7 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 
 								<?php if (isset($_smarty_tpl->tpl_vars['product']->value->specificPrice)&&$_smarty_tpl->tpl_vars['product']->value->specificPrice) {?>
 									<?php ob_start();?><?php echo $_smarty_tpl->tpl_vars['product']->value->specificPrice['reduction_type']=='percentage';?>
-<?php $_tmp8=ob_get_clean();?><?php if ($_tmp8) {?>
+<?php $_tmp1=ob_get_clean();?><?php if ($_tmp1) {?>
 										<span class="old-price product-price">
 											<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['displayWtPrice'][0][0]->displayWtPrice(array('p'=>($_smarty_tpl->tpl_vars['product']->value->getPrice(true,null,6,null,false,false))),$_smarty_tpl);?>
 

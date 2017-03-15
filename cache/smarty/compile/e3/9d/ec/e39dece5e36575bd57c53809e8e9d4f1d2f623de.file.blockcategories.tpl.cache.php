@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-03-03 10:07:44
+<?php /* Smarty version Smarty-3.1.19, created on 2017-03-09 10:26:26
          compiled from "/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/modules/blockcategories/blockcategories.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:72607499658b8de00014a03-87683033%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:134091721158c0cb62e021b0-76954795%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '72607499658b8de00014a03-87683033',
+  'nocache_hash' => '134091721158c0cb62e021b0-76954795',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58b8de00077252_91576624',
+  'unifunc' => 'content_58c0cb62e23491_07814510',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58b8de00077252_91576624')) {function content_58b8de00077252_91576624($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_58c0cb62e23491_07814510')) {function content_58c0cb62e23491_07814510($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['blockCategTree']->value&&count($_smarty_tpl->tpl_vars['blockCategTree']->value['children'])) {?>
 <!-- Block categories module -->
 <div id="categories_block_left" class="block">

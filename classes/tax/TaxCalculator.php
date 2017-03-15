@@ -79,7 +79,12 @@ class TaxCalculatorCore
      */
     public function addTaxes($price_te)
     {
-        return $price_te * (1 + ($this->getTotalRate() / 100));
+        // Luan modified.
+        PrestaShopLoggerCore::addLog('Luan running addTaxes for price =  ' . $price_te, '1');
+        $priceWithTax = $price_te * (1 + ($this->getTotalRate() / 100));
+        $priceWithTax = round($priceWithTax, _PS_PRICE_COMPUTE_PRECISION_);
+        //return $price_te * (1 + ($this->getTotalRate() / 100));
+        return $priceWithTax;
     }
 
 

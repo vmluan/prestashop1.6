@@ -250,6 +250,7 @@
 							{/if}
 						{/if}
 					</strong>
+
 					<span class="ajax_block_products_total">
 						{if $cart_qties > 0}
 							{convertPrice price=$cart->getOrderTotal(false, Cart::ONLY_PRODUCTS)}

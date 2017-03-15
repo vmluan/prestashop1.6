@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-03-03 03:58:37
+<?php /* Smarty version Smarty-3.1.19, created on 2017-03-09 14:43:42
          compiled from "/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/contact-form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:208975045458b8dbdd9678d2-03342005%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:44902369358c107ae4a35b0-38742999%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '208975045458b8dbdd9678d2-03342005',
+  'nocache_hash' => '44902369358c107ae4a35b0-38742999',
   'function' => 
   array (
   ),
@@ -42,9 +42,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58b8dbdda8c698_06263242',
+  'unifunc' => 'content_58c107ae5e7229_39135840',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58b8dbdda8c698_06263242')) {function content_58b8dbdda8c698_06263242($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_58c107ae5e7229_39135840')) {function content_58c107ae5e7229_39135840($_smarty_tpl) {?>
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?><?php echo smartyTranslate(array('s'=>'Contact'),$_smarty_tpl);?>
 <?php list($_capture_buffer, $_capture_assign, $_capture_append) = array_pop($_smarty_tpl->_capture_stack[0]);
 if (!empty($_capture_buffer)) {

@@ -121,7 +121,8 @@
 		{/if}
 		</td>
 	{/if}
-	<td class="cart_total" data-title="{l s='Total'}">
+
+	<td class="cart_total luan" data-title="{l s='Total'}">
 		<span class="price" id="total_product_price_{$product.id_product}_{$product.id_product_attribute}{if $quantityDisplayed > 0}_nocustom{/if}_{$product.id_address_delivery|intval}{if !empty($product.gift)}_gift{/if}">
 			{if !empty($product.gift)}
 				<span class="gift-icon">{l s='Gift!'}</span>

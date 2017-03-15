@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-03-03 15:05:34
+<?php /* Smarty version Smarty-3.1.19, created on 2017-03-09 13:45:18
          compiled from "/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/category.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:165123347958b8dbdd8288f8-30044452%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:198732915558c0f9fe3674f9-84258343%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '59d0d9c28b77d63ded0baf6fbfdc226c2be92fe7' => 
     array (
       0 => '/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/category.tpl',
-      1 => 1488528328,
+      1 => 1488542227,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '165123347958b8dbdd8288f8-30044452',
+  'nocache_hash' => '198732915558c0f9fe3674f9-84258343',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58b8dbdd8ecff1_11354521',
   'variables' => 
   array (
     'category' => 0,
@@ -34,8 +32,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'lang_iso' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58c0f9fe420106_84006868',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58b8dbdd8ecff1_11354521')) {function content_58b8dbdd8ecff1_11354521($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_58c0f9fe420106_84006868')) {function content_58c0f9fe420106_84006868($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->getSubTemplate (((string)$_smarty_tpl->tpl_vars['tpl_dir']->value)."./errors.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 <?php if (isset($_smarty_tpl->tpl_vars['category']->value)) {?>
@@ -66,7 +66,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                     </div>
 				<?php } else { ?>
                     <!-- Category image of Luan -->
-                    <div class="content_scene_cat_bg"<?php if ($_smarty_tpl->tpl_vars['category']->value->id_image) {?> style="background:url(<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getCatImageLink($_smarty_tpl->tpl_vars['category']->value->link_rewrite,$_smarty_tpl->tpl_vars['category']->value->id_image,'category_default'), ENT_QUOTES, 'UTF-8', true);?>
+                    <!--div class="content_scene_cat_bg"<?php if ($_smarty_tpl->tpl_vars['category']->value->id_image) {?> style="background:url(<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getCatImageLink($_smarty_tpl->tpl_vars['category']->value->link_rewrite,$_smarty_tpl->tpl_vars['category']->value->id_image,'category_default'), ENT_QUOTES, 'UTF-8', true);?>
 ) right center no-repeat; background-size:cover; min-height:<?php echo $_smarty_tpl->tpl_vars['categorySize']->value['height'];?>
 px;"<?php }?>>
                         <?php if ($_smarty_tpl->tpl_vars['category']->value->description) {?>
@@ -90,7 +90,7 @@ px;"<?php }?>>
                             <?php }?>
                             </div>
                         <?php }?>
-                     </div>
+                     </div-->
                   <?php }?>
             </div>
 		<?php }?>
@@ -101,7 +101,7 @@ px;"<?php }?>>
 		<?php if (isset($_smarty_tpl->tpl_vars['subcategories']->value)) {?>
         <?php if ((isset($_smarty_tpl->tpl_vars['display_subcategories']->value)&&$_smarty_tpl->tpl_vars['display_subcategories']->value==1)||!isset($_smarty_tpl->tpl_vars['display_subcategories']->value)) {?>
 		<!-- Subcategories -->
-		<div id="subcategories">
+		<!--div id="subcategories">
 			<p class="subcategory-heading"><?php echo smartyTranslate(array('s'=>'Subcategories'),$_smarty_tpl);?>
 </p>
 			<ul class="clearfix">
@@ -141,7 +141,7 @@ $_smarty_tpl->tpl_vars['subcategory']->_loop = true;
 				</li>
 			<?php } ?>
 			</ul>
-		</div>
+		</div-->
         <?php }?>
 		<?php }?>
 		<?php if ($_smarty_tpl->tpl_vars['products']->value) {?>

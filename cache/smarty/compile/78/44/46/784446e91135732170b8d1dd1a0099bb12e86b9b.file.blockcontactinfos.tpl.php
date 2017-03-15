@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-03-03 03:58:38
+<?php /* Smarty version Smarty-3.1.19, created on 2017-03-14 13:17:59
          compiled from "/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:80260704658b8dbde800167-17395132%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:158609955958c78b17850d56-78721888%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '784446e91135732170b8d1dd1a0099bb12e86b9b' => 
     array (
       0 => '/Applications/MAMP/htdocs/hoang2/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl',
-      1 => 1482135424,
+      1 => 1489137388,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '80260704658b8dbde800167-17395132',
+  'nocache_hash' => '158609955958c78b17850d56-78721888',
   'function' => 
   array (
   ),
@@ -21,12 +21,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'blockcontactinfos_address' => 0,
     'blockcontactinfos_phone' => 0,
     'blockcontactinfos_email' => 0,
+    'blockcontactinfos_design_by' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58b8dbde821f49_80654897',
+  'unifunc' => 'content_58c78b1787a901_62368713',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58b8dbde821f49_80654897')) {function content_58b8dbde821f49_80654897($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include '/Applications/MAMP/htdocs/hoang2/tools/smarty/plugins/function.mailto.php';
+<?php if ($_valid && !is_callable('content_58c78b1787a901_62368713')) {function content_58c78b1787a901_62368713($_smarty_tpl) {?><?php if (!is_callable('smarty_function_mailto')) include '/Applications/MAMP/htdocs/hoang2/tools/smarty/plugins/function.mailto.php';
 ?>
 
 <!-- MODULE Block contact infos -->
@@ -53,11 +54,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             <?php if ($_smarty_tpl->tpl_vars['blockcontactinfos_email']->value!='') {?>
             	<li>
             		<i class="icon-envelope-alt"></i><?php echo smartyTranslate(array('s'=>'Email:','mod'=>'blockcontactinfos'),$_smarty_tpl);?>
- 
+
             		<span><?php echo smarty_function_mailto(array('address'=>htmlspecialchars($_smarty_tpl->tpl_vars['blockcontactinfos_email']->value, ENT_QUOTES, 'UTF-8', true),'encode'=>"hex"),$_smarty_tpl);?>
 </span>
             	</li>
             <?php }?>
+			
+			<?php if ($_smarty_tpl->tpl_vars['blockcontactinfos_design_by']->value!='') {?>
+				<li>
+					<i class=""></i><?php echo smartyTranslate(array('s'=>'Design by:','mod'=>'blockcontactinfos'),$_smarty_tpl);?>
+
+					<span><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['blockcontactinfos_design_by']->value, ENT_QUOTES, 'UTF-8', true);?>
+</span>
+				</li>
+			<?php }?>
         </ul>
     </div>
 </section>

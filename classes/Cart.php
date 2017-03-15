@@ -679,6 +679,10 @@ class CartCore extends ObjectModel
                 $cart_shop_context
             );
 
+
+            //Luan Testing
+          //  $row['price_with_reduction'] = round($row['price_with_reduction'], _PS_PRICE_COMPUTE_PRECISION_);
+
             $row['price'] = $row['price_with_reduction_without_tax'] = Product::getPriceStatic(
                 (int)$row['id_product'],
                 false,
@@ -697,8 +701,9 @@ class CartCore extends ObjectModel
                 true,
                 $cart_shop_context
             );
-
+         //   PrestaShopLoggerCore::addLog('Luan a test ' . Configuration::get('PS_ROUND_TYPE'), '1');
             switch (Configuration::get('PS_ROUND_TYPE')) {
+
                 case Order::ROUND_TOTAL:
                     $row['total'] = $row['price_with_reduction_without_tax'] * (int)$row['cart_quantity'];
                     $row['total_wt'] = $row['price_with_reduction'] * (int)$row['cart_quantity'];
@@ -712,8 +717,11 @@ class CartCore extends ObjectModel
                 default:
                     $row['total'] = Tools::ps_round($row['price_with_reduction_without_tax'], _PS_PRICE_COMPUTE_PRECISION_) * (int)$row['cart_quantity'];
                     $row['total_wt'] = Tools::ps_round($row['price_with_reduction'], _PS_PRICE_COMPUTE_PRECISION_) * (int)$row['cart_quantity'];
+
+
                     break;
             }
+            PrestaShopLoggerCore::addLog('Luan test unit_price (price_with_reduction)  = ' . $row['price_with_reduction'], '1');
 
             $row['price_wt'] = $row['price_with_reduction'];
             $row['description_short'] = Tools::nl2br($row['description_short']);
@@ -1389,7 +1397,7 @@ class CartCore extends ObjectModel
         if (!Validate::isLoadedObject($cart)) {
             die(Tools::displayError());
         }
-
+        PrestaShopLoggerCore::addLog('Luan getTotalCart ' . $id_cart, '1');
         $with_taxes = $use_tax_display ? $cart->_taxCalculationMethod != PS_TAX_EXC : true;
         return Tools::displayPrice($cart->getOrderTotal($with_taxes, $type), Currency::getCurrencyInstance((int)$cart->id_currency), false);
     }
@@ -1420,6 +1428,8 @@ class CartCore extends ObjectModel
     */
     public function getOrderTotal($with_taxes = true, $type = Cart::BOTH, $products = null, $id_carrier = null, $use_cache = true)
     {
+        PrestaShopLoggerCore::addLog('Luan running getOrderTotal' , '1');
+
         // Dependencies
         $address_factory    = Adapter_ServiceLocator::get('Adapter_AddressFactory');
         $price_calculator    = Adapter_ServiceLocator::get('Adapter_ProductPriceCalculator');
