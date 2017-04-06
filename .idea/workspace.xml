@@ -2,505 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad06f36c-9422-448d-b894-468d5c1149a5" name="Default" comment="update css to remove spaces. Update category and product.">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbanner/1/1/1/222/81/eb/b6/81ebb62377f54f17db81fbe766b514147c34ba36.blockbanner.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_home/1/1/1/222/04/cc/6b/04cc6bfd302c6cfa7d83181e0bb32a14be790e6b.blockbestsellers-home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_tab/1/1/1/222/84/a1/fd/84a1fde595ddda3036918978f0def59c7ebdc61e.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/11/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/11/11/1/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/3/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/3/3/1/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/5/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/7/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/8/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/8/8/1/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/9/1/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/1/1/222/9/9/1/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcms/0/1/1/1/222/49/1a/ef/491aef3461b048221743bfce4f3f12bf36d85eed.blockcms.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcms/2/1/1/1/222/49/1a/ef/491aef3461b048221743bfce4f3f12bf36d85eed.blockcms.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcmsinfo/1/1/1/222/e7/d0/13/e7d013c9cf2a0aabec66f8eed8e257271f57be51.blockcmsinfo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcontact/1/1/1/222/b3/fc/e6/b3fce62cf2554d0cd43d50147b5f99243de2dad9.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcontactinfos/1/1/1/222/78/44/46/784446e91135732170b8d1dd1a0099bb12e86b9b.blockcontactinfos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockfacebook/1/1/1/222/b0/c4/91/b0c49175e325d1e8603aeb5accb5e458bbb390af.blockfacebook.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockmyaccountfooter/1/1/1/222/e7/35/4c/e7354c081bd4269839375d6e197ae70dc5f9c75b.blockmyaccountfooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts/20170303/1/1/1/222/40/fe/df/40fedf400bf57da0e690d633383658e750968b22.blocknewproducts.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_home/20170303/1/1/1/222/4e/82/76/4e827667fbcb2cd99d3daf939a3fb253c99fa46c.blocknewproducts_home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_tab/20170303/1/1/1/222/0a/7a/d8/0a7ad84681378c254ade536da863c03bca643478.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocksearch_top/1/1/1/222/61/64/65/6164658278559746c3c1cd82c0da1d7a6b991ff0.blocksearch-top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocksocial/1/1/1/222/92/23/41/922341ee96e7d1e757cd5b143ea0afca76c3c8b0.blocksocial.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/10/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/11/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/13/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/14/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/15/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/16/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/17/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/20/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/3/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/4/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/5/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/7/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials/20170303/8/20170303/1/1/1/222/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_home/20170303/1/1/1/222/be/13/40/be1340a13db78ac83befeecd1840842866880cb1.blockspecials-home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_tab/20170303/1/1/1/222/5e/73/26/5e73268419411d4ccea6457623570305b9576ca4.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockstore/1/1/1/222/20/3c/b0/203cb0a6ca0d97a6b968f33710dd844610d84e46.blockstore.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/category/11/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/category/3/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/category/8/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/category/9/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/index/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/product/1/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/product/2/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/product/3/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/1/1/222/product/6/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/homefeatured/1/1/1/222/01/0e/3a/010e3a3a41d6303d7b7ebf13eda019374e4a29fa.homefeatured.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/homefeatured_tab/1/1/1/222/b3/1b/7f/b31b7f5bb26dd3cfa41c5798e6a4e0c1d3cd18a8.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/homeslider/1/1/1/222/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.homeslider.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/1/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/2/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/3/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/4/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/5/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/6/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productlist_colors/7/1/1/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/productpaymentlogos/1/1/1/222/e5/13/59/e513598bfda1b1663304a5378a4558499028a564.productpaymentlogos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing/1/1/1/1/222/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.socialsharing.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing/2/1/1/1/222/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.socialsharing.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing/3/1/1/1/222/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.socialsharing.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing/6/1/1/1/222/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.socialsharing.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing_header/1/1/1/1/222/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.socialsharing_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing_header/2/1/1/1/222/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.socialsharing_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing_header/3/1/1/1/222/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.socialsharing_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/cache/socialsharing_header/6/1/1/1/222/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.socialsharing_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/01/0e/3a/010e3a3a41d6303d7b7ebf13eda019374e4a29fa.file.homefeatured.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/02/02/14/020214107efdc21cff621c18a5c6124e0664f33e.file.graph.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/03/43/ef/0343ef9d3ca1c801adeb4b3f2ce40c2fd3d6dd36.file.tree_node_item_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/04/66/8b/04668bebcfab8e6fc942ab18bf7d33c31698869f.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/04/cc/6b/04cc6bfd302c6cfa7d83181e0bb32a14be790e6b.file.blockbestsellers-home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/05/27/1f/05271f70945cd1e81ca6cb0ed703cafcb01fd8b5.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/05/b7/d6/05b7d6122471bf19f9b094795bfaf9fe4705eb73.file.tree_associated_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/06/96/c0/0696c0df9cb9cf5f2610394e9c13a7c46af47f22.file.suppliers.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/07/5b/67/075b67eea3702a740834e499a17d1dc3666bcab8.file.blockrss.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/08/51/c1/0851c10a06cdd0552c6033b41a20c5b280759cfe.file.sitemap.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/08/7d/53/087d53b4e8fc94ec7f6192d9132d34db6b01dde3.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/09/76/fc/0976fc7e621caf718f83944fe7b767f6ecfe9eba.file.virtual_product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/09/ac/9f/09ac9f816e5a55bc22b13a0a13cfee3dfed73155.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0a/7a/d8/0a7ad84681378c254ade536da863c03bca643478.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0b/4a/5c/0b4a5cd0d70a06267e4a07bef680121788a0528c.file.order-confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0c/f5/07/0cf5078aad8d23cb2252546f3555fa2a0efa4e35.file.blockcustomerprivacy.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0c/f8/d8/0cf8d86bae0e2bef22c967ef961b4c649c769978.file.filters.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0d/0f/13/0d0f130cf6a9357159b42433a053eb3570dd2b2f.file.restrictions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0d/84/21/0d8421ce74dcb42d53cc9da352068b2b0609754e.file.shop_tree_node_folder.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/0e/ff/1c/0eff1c490c2247b608327be599998d79930d4b96.file.prices.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/12/12/a9/1212a925c954a61003a68b35c5be9f02981203c9.file.blocktags.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/13/84/1e/13841ebd6f797ef2acdcb6672723e73a42820b18.file.list_action_default.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/14/6f/e4/146fe49ca9193ca5dfbb611e1bc7b996cd4a514d.file.login_addons.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/15/7c/ff/157cff4bca1ba2ac735bf8dfa0e325f08ebfdbb5.file.product_rule_itemlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/17/2c/fb/172cfb9dd90ef7264a261a4b6b655efa62151f4e.file.seo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/17/b3/c6/17b3c68799494afe149302642c7af2de172439b9.file.blockwishlist_top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/17/cc/10/17cc10f74ff31b6d4705b720755d8c4ed127e562.file.assoshop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/19/d3/2d/19d32d5a4fe5db367fba997cae310da8b02fa519.file.form_customization_feedback.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1b/9e/c8/1b9ec89229e0c971b0b866bb10f20b9ac2204e84.file.layout-export.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1b/c7/e0/1bc7e0949c786c84935f900b10ba2856ee42bb4e.file.blocklayered-no-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1b/e0/77/1be07787994a5de08c44e206a615e8cf9dfd966e.file.warning_module.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1c/d9/21/1cd921ed9af52b7d17935557f510d1e7d6c294d0.file.associations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1d/8f/94/1d8f948bb0b4760dca7bc7f58a99fb8ce1a2c632.file.pack.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1d/dc/29/1ddc2944cf5ddb2051afc8591fb1939f45b9c5c5.file.product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1e/c8/e1/1ec8e1bc38be31428b5690e0b62691b9ee9124a5.file.tree_node_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1e/cf/7b/1ecf7b476969409d786704a2f97ab035d596a246.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1f/45/37/1f4537a6c6dc2e5b4075ca060c772bab66f9e858.file.tree_node_folder.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.file.blocktopmenu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/1f/cb/70/1fcb70e159ccb31045088cf00515dd83ce131b0c.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/20/3c/b0/203cb0a6ca0d97a6b968f33710dd844610d84e46.file.blockstore.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/20/e8/10/20e8100b8b09c0532db37c17ddfdb65b81674493.file.category-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/22/04/d3/2204d305e47cd8a91cf82b09197178a25dfd4123.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/23/13/d8/2313d8c0d4410f75073efdc7a59e6d3b90d4e618.file.tree_node_folder_checkbox_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/26/33/52/263352066ecdf8081354d721447c6b5b13fe23d6.file.list_action_transferstock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/26/85/ad/2685ad03d2a66e8d8c012e9d67ccf074f0fef9d2.file.tree_associated_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/29/07/26/29072656281ccedc68601ab9054c83bb49af5c00.file.productcomments_top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/29/4f/52/294f526e27c9c0f08f5f7c558fc53d3bec006d0b.file.best-sales.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/29/8b/7f/298b7f96ba55e81071bcd176d910e81fe936b170.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2a/ed/85/2aed85caea503c9cd2e252573466d6931e413477.file.order-payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2b/f8/44/2bf8448f3012decddbf3c896984c6de71937e73b.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2c/bf/7d/2cbf7dec56387ef1866126349a67bfc0707f83ea.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2c/ed/7a/2ced7a97a019505484b7fd045a3d2f8be5101651.file.shop_tree_node_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2c/f5/f3/2cf5f3407648ca075792dced4de9ffd337c06559.file.guest-tracking.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2d/3d/54/2d3d54f5d4b7093322c983faa229f077c69800e6.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2e/12/0a/2e120acf1fc5faf30519826b1ebe80456b6142dd.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2f/79/8c/2f798cc1d34a2d37ac3fac36eafe8e4a8f173b8b.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/2f/cf/bb/2fcfbbfddc47d0b3b91f0aac14526f60cc4078cd.file.prices-drop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/32/34/15/3234159ee603c11ee0bf87619088a7ac586fbde0.file.list_action_removestock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/33/60/e4/3360e43fae0efd27f911c86f94d475d0116b965b.file.maintenance.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/33/95/ed/3395ed00bd10e4bb2dda6c5bde857870cf83fffe.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/33/a3/b8/33a3b80c8b0077e911f62b51f8e64b74ae4d7b85.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/34/04/9f/34049f880bafa3d0161a78c5c3910b868eadb368.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/34/90/e2/3490e2fcad5ea3cdedd8471e9a353d79d41316a9.file.warehouses.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/34/aa/45/34aa45dd15fec1f4ae7796b25d72147961322c64.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/34/c0/f1/34c0f148c25065d56635ff250a0947638b2abeaa.file.new-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/35/6e/42/356e4216ecdc35ed514c5281e11018028230c0ff.file.blockwishlist-ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/35/ab/24/35ab243d26d5e91e8615f35ea906d8830f213235.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/35/d0/28/35d0289ef86312c5986fc5bad3b5c37cfbb1e425.file.list_action_supplier_order_receipt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/36/74/40/3674403d2c5c2dbc63aafb5ffde91e5cac60004d.file.category-cms-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/37/2f/3c/372f3cf64529ba1e88ddb8eb06d4e77e7c3fff9b.file.form_ranges.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/38/6e/10/386e109bc40ce5dfd7f446459b30ea2c36d361f0.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/38/75/75/3875753b8c4751409e10925cab635230d6fe72a0.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/39/d2/a8/39d2a8b31ea52d68aaee5baca804c1bff2457453.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3a/70/68/3a706876e77d96c487a781917c5de3bd5d7182c4.file.ad_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3a/d2/b8/3ad2b800db87aef3e3e7a8db390cc5fa20212002.file.toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3c/4d/06/3c4d06edadafed8a2b4d1ef387e89ac5e414dc84.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3c/a6/0f/3ca60f9d0e0d49fc27ced233fedb046d0a94036f.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3d/94/43/3d9443f18f01ad05a909551814fdcee4f187b62c.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3e/31/e8/3e31e80d875da64d297b93ef0951ffb66505d226.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3f/14/56/3f14565346060842913785d3d0c6335369f36b37.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3f/9d/27/3f9d2720bfbe24490659ab9905a32331137faf05.file.subtree_associated_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/3f/f4/03/3ff403e02d12fa7554cd8eaccc4d2c056ad6e86f.file.virtualproduct.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/40/fe/df/40fedf400bf57da0e690d633383658e750968b22.file.blocknewproducts.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/41/e6/f1/41e6f1e7453961dafdbc11b641e9c46d5fe3d30b.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/42/23/27/42232769891b6f2b4c9c9e7f8acd6866111a86d8.file.tree_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/42/7f/0c/427f0c9bdc5487d365d26cc75ddebc4edbd898f0.file.list_action_export.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/43/02/88/430288346aa7773174be14797dd7ba89a4426ba3.file.stats.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/44/85/52/448552c37d6728ce196a9074e771447a373e112d.file.attachment_ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/45/d3/06/45d306cb6f7ce058bfa1a318bc9b66bd3f86ef53.file.favoriteproducts-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/46/5d/ca/465dca1b373ed3e0f72b1707de590fc29b35104d.file.list_action_addstock.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/48/ad/3e/48ad3e608f3e7c3cb7712812633b95248b3a9bbf.file.scenes.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/49/1a/ef/491aef3461b048221743bfce4f3f12bf36d85eed.file.blockcms.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4a/48/18/4a48181418ed5f4f89293540ecb921396da2636a.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4a/87/4b/4a874bcd454f5330b3fbfe5c771c5d06808f2a83.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4a/9b/23/4a9b2352a81183bae54e6ffd5c16c7e61927a68d.file.tree_node_item_checkbox_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4d/c7/22/4dc72209836688023cabf003e2e2663afcfd4381.file._shipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4e/82/76/4e827667fbcb2cd99d3daf939a3fb253c99fa46c.file.blocknewproducts_home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4f/40/d1/4f40d14988f28f040e1c8d3364e42ef992b91d02.file.tree_toolbar_link.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4f/8c/70/4f8c70286bcd4f90b03dc2a9d04bf0a580134a76.file.blockcontact.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/4f/de/70/4fde70b5c4001698ccd0c85fa41c2bb966d16e6c.file.favorites.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/51/14/37/5114379b477cf090ad795f501e407bfd8fce8729.file.required_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/52/81/a8/5281a87c53151a4b25862cae06269b15cfc8e657.file._documents.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/53/68/a9/5368a987e713375dd48b276def047a8bcde233b4.file.supplier-list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/55/0d/75/550d75c964f48e812f4ee879769ff793503a6d70.file.address.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/55/af/32/55af32a11aac64179242efc5d62d25cc23fee1be.file.logo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/56/f5/15/56f5150a2379da8a342bf3fc151136fc5c12e6b8.file.required_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/57/c9/11/57c9113cb5ee102be2e3fff71e5f080e78296396.file.order-payment-classic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/58/a4/f9/58a4f923ddea3c22a336c7f9d12f2ba3c54984ed.file._discount_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/59/60/8e/59608e18d17abcc243eb78901b18bc0dc2010154.file.product_rule.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/5c/c2/9e/5cc29ea92e9007dab2ee3cfc7f5c24529f0a2132.file.tree_node_folder_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/5d/a0/c1/5da0c1240988af38548ca55ab18f745057fc2f80.file.conditions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/5d/ba/57/5dba57abf1f54c7fda5bd39d28ad11807638a33c.file.order-confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/5e/73/26/5e73268419411d4ccea6457623570305b9576ca4.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/61/97/d7/6197d7c094c0bb6fbcc420831cf9c1f96253b7e0.file.js.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/63/59/29/635929408f41a9416a601a11a1d3fa03d189bce6.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/63/a1/57/63a15744b13f0c954c48a81e0c1aac33a15466be.file.simple.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/63/b5/8e/63b58ea8eb61539ebae4b789a53fd85f4a006bfe.file.tree_node_item_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/64/ea/c3/64eac3c2732f2f46318fc29d1f8d0b0da1fd1c6b.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/65/79/5a/65795a9a24a6bba82da2d6b34f94ff549e2930c2.file.tree_node_item_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/66/2a/5c/662a5c25e9e7493dd13a2d79ee1e73a9ed92180a.file.tree_toolbar_search.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/66/fa/56/66fa56f0cf54b8e42392f7ec67f9f24ebc00ab4a.file.order-carrier-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/67/c7/2b/67c72b9f7420a95d6bde813052619f86afcfeec9.file.order-follow.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/69/54/f3/6954f3c8ffb8a229712a7bd4af97eec7d000e2f8.file.infos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/69/b2/df/69b2df6968ae098c9764b5dc35eceeacb7541f15.file.list_action_preview.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6a/39/a9/6a39a93e3ad425a65364869933d37924665fd90d.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6a/86/ba/6a86ba59260b1eb1684d4523240bcecc40da4600.file.quickview.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6b/e0/6d/6be06d0b677aef1d3cb5a26f042328962b730212.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6c/6b/ac/6c6bac0bcb9683e2fb8e23bad2f3fb5a2a1354d3.file.supplier.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6d/3e/fc/6d3efcdd73b752a9e9a3c254fd2cf57f51d099d5.file.page.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6d/67/53/6d6753d06a916fb33481775a92edfd0f8cfe3184.file.modal_not_trusted.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6d/f0/cd/6df0cdc73379728e4450ec75b994607cb3fe8c42.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6e/47/e0/6e47e05ea68fca7e55344f20c6b3eb3e26685f46.file.employee_field.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6e/7e/31/6e7e3159376ae87d6934536805137b37ce6e5933.file.order-address-multishipping-products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6e/de/01/6ede01244abbc72bd014ff00f622123c77ab2a9e.file.specific_prices_shop_update.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/6f/5b/98/6f5b98149cc0fd2b9006cfdc5f2c23cb7149ab1d.file.configuration_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/70/19/34/701934aac26e75cf1cc62296a4adca807ba21412.file.blockmanufacturer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/70/9a/ff/709affef59fa4c44fdca8216dd396bc93b128bfc.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/72/14/86/7214868632ca58ad2aa1fce5abeaead423a4d3da.file.search_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/73/79/90/737990cbfcbc75908f2016f3731d5bfe2d91443a.file.blockwishlist_button.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/76/74/d7/7674d7534860f0742106a77e250a8069d9afd1ad.file.shopping-cart-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/77/92/bb/7792bb9a56bc30029b039026a3bf38c9e9a843bc.file.checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/78/0a/19/780a195c42dce8e31747a8e92916852b993f26fc.file.mywishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/78/10/09/781009ead3323c18228afb7000d6e1d3c3d18cf8.file.shop_tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/78/44/46/784446e91135732170b8d1dd1a0099bb12e86b9b.file.blockcontactinfos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/78/a6/e3/78a6e31a1466055852cbdd39477bdfadb7ef79e9.file.order-return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/7c/07/99/7c07990788231d5a6924ee2b6fd98592cb478df1.file.actions.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/7c/29/df/7c29df467239f84ea0efe822e5fb284c4f6c66bb.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/7c/2d/56/7c2d5610b61fc6aeb01bd88ab8ace8e41a33770e.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/81/47/be/8147be7fc591b115315dd21666c7c45d57c9953a.file.ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/81/aa/64/81aa64bd6c89cdf5af9d48e37208e1866a7bd8ee.file.product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/81/eb/b6/81ebb62377f54f17db81fbe766b514147c34ba36.file.blockbanner.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/81/eb/b6/81ebb62377f54f17db81fbe766b514147c34ba36.file.blockbanner.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/82/e3/e5/82e3e5f2621c0798189b83ba840a0f4097e06124.file.blockwishlist-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/83/4a/fc/834afcf55f902ec5b0ab0ae88d1063018cda1b5f.file.blocksupplier.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/84/0f/87/840f876089cc87ccaf38497cdd2d5cf0613ea776.file.managewishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/84/a1/fd/84a1fde595ddda3036918978f0def59c7ebdc61e.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/85/6c/0c/856c0c1039f469c6d4af28c46afcf6f9fc670418.file.blockwishlist.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/86/53/57/8653572486bd0d233363c38d13f09afaaa442623.file.mailalerts-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/86/5f/37/865f37c50fa1c34f17ccd110b59e103cb8dd1c73.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/86/b6/b5/86b6b588e82a75474c6baa1c92def36f1be8ecb2.file.menu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/88/ad/96/88ad96d2542264434457392751ea89bbfc560a69.file.shopping-cart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8a/56/a2/8a56a2436eab4db03398cff0e644e84d7ff702f9.file.modal_not_trusted_country.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8a/62/c9/8a62c9eeb30574f8edf7dddecfb7aadda50f41fa.file.ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8b/4f/74/8b4f7424bbe5df060facc054fc086040eba58024.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8c/42/32/8c4232292d739895abe80e80de73da50609e99c4.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8c/e9/c7/8ce9c7367722d2629a8260292d8c6a1ee01567b2.file.payment_return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8d/89/7a/8d897a3225c884ea3db5b39024c18872091101fc.file.tree.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/8e/b6/15/8eb6153b739ab2db8e49c5896c8ddeb8d2310498.file.order-payment-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/90/12/c5/9012c5df50515a064602ebf78b6c5efa98ffc7ec.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/90/29/98/902998aa78414f9376179c617603ece293bc75b6.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/90/6f/c2/906fc27965425dd0c9bff7355f0af015cc636f88.file.importtheme_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/92/23/41/922341ee96e7d1e757cd5b143ea0afca76c3c8b0.file.blocksocial.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/94/1c/82/941c82556e3224b172bf1f58a109e6c4714b4ba9.file.kpi.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/95/07/e6/9507e60df01344145fbac5bd04e243334831679f.file.footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/96/d6/d1/96d6d1c4dc65da23a0d41ec4ee5c8a8d7b8f9a65.file.order-address-product-line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/97/52/05/9752052e0eb37f3f8c3bcd00c8a7e670384e89ff.file.payment_execution.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/97/f3/c5/97f3c511b9f4252c3038aed366e3a8a30b60b5a1.file.engines.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/97/fa/d0/97fad0935c37f1d4f5d973ef54e025292a32b28c.file.sendtoafriend-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/98/05/12/9805129b5bf37bad6db4ad64486f99101fa779e9.file.textarea_lang.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/99/6b/22/996b225b3087dc99febae8f7a72095fcee90318c.file.tab_modules_list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/99/70/06/99700608860176c61dd8246771620e4ca148c010.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/99/df/b2/99dfb299ac1218136ffda3b933541c5c109c729b.file.products-comparison.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/9c/ff/0c/9cff0c5fdcf94dd47055f1c659748a49e042cb88.file.form_group.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/9e/32/da/9e32da7ccc8f37009b346ef9a1d80522faa178dc.file.manufacturer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/9f/28/ba/9f28baab7dfff9375689b375cfb08268d4704c1d.file.manufacturer-list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/9f/32/26/9f32267e865b6b8cb65533224f82de4ad11102d4.file.order-opc-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/9f/cb/ea/9fcbea41d35ab0cc1fdc09a381fb967a61c5796c.file.layout-ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a0/fe/50/a0fe50b508a3203333de59c96a4c4ae093381a8d.file.combinations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a0/ff/70/a0ff709d6e2f604c22fc3e64800d322c75ef2d46.file.footer_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a2/45/07/a24507906e5bd680603846e1c4c56b1b2637eb61.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a3/0e/bc/a30ebc613d0f35acf1c7a308fa149a4e7f2fb4b4.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a4/4c/27/a44c27f9dcb584a69af70994530095fea3f759a6.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a5/c9/ff/a5c9ff193250db6e6b00e3b2b121a4d625d91e49.file.customization.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a6/c8/7c/a6c87ce822cc653f6f42eb71e2424aa3de772d90.file.message.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a7/02/b2/a702b2c9967870caefb065e3e663e56b76ed64bc.file.form_category.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a9/7f/55/a97f55f11acad11bb55cdbaad4575f7222f44f78.file.blocklayered.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/a9/eb/96/a9eb969dd8cda66ece116e794f9b96bc8695a0d7.file.check_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/aa/87/60/aa8760684a47841dfda6317ea806cecfc8db119f.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/aa/ce/a4/aacea4a6450c38e39cb5903386983b28a6c5b78a.file.tab_module_line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/aa/dd/36/aadd363cc0b984b0db5ba6a233e34ff82d61bde3.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ac/df/49/acdf49e859e1fe21b0984d6bda0d608372d55d83.file.payment_return.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ad/28/05/ad28052f02cf7ce66fa0739906b3a9265bc8bd58.file.tree_node_item_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/af/38/b0/af38b0fa4517acc648d79d010779b80bdbb13154.file.input_text_lang.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b0/c4/91/b0c49175e325d1e8603aeb5accb5e458bbb390af.file.blockfacebook.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b1/13/11/b1131144c35ab18cacb371b2b4a2d7850634132b.file.discount.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b2/44/4b/b2444ba29e639516d339122689fe19740a66c198.file.blocklink.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/15/90/b315904ac599045bdca3a279d36b7e63a3cef9af.file.configuration.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/1b/7f/b31b7f5bb26dd3cfa41c5798e6a4e0c1d3cd18a8.file.tab.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/4d/26/b34d26c35a18975da4fc231813c6572b72c7c0c0.file.row.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/fc/e6/b3fce62cf2554d0cd43d50147b5f99243de2dad9.file.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b4/58/ce/b458ce392c7c3e6f6a090ee05f09043a57dbe6c6.file.program.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b4/ac/29/b4ac2937417c41e532c4ed44ff090a2016c7cb18.file.tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b4/b3/f6/b4b3f638b71942c0706440997fe7d28817a0f368.file.validation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b5/37/38/b53738fcd973d937d01b249d7cdc0d8d4f82fc0b.file.blockbestsellers.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b5/3a/52/b53a5240c1bbe28ad6c48ee0d4090699509cec65.file.list_modules.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b5/97/98/b59798f2b04698879a4ee7f4f6a833bc031fa58f.file.productscategory.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b6/c8/b0/b6c8b0d59429999f8fad9cc5811e816a6ba3353b.file.tree_node_folder_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/b8/86/d1/b886d1d439845d295e77ab91742a037ebfa5e1ad.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ba/11/e2/ba11e266554dc12f0e8e7e44eb84f6ef3c003eeb.file.list_action_supply_order_receipt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ba/46/3f/ba463f29476d5b1eb8fd9cc2cb732f307d98f8c4.file.favoriteproducts-header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ba/c0/10/bac010b4cb625f9274dcd7dc42ee9fad946c30ed.file._new_product.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bb/43/91/bb4391b6532effc587b2e1a6039798ba1ae85411.file.informations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bb/7e/18/bb7e18224070932bf7fd45252e63652f53dd5e91.file.shopping-cart.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bb/e5/3f/bbe53fa5fafc4e494c2f83536358781bcaeef745.file._product_line.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bc/9b/16/bc9b16ffdff036ce05fb37caea314fc2a687a1ba.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bd/a5/c4/bda5c4ece3c31b6d061adc4d48e14020200421be.file.password.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/be/13/40/be1340a13db78ac83befeecd1840842866880cb1.file.blockspecials-home.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/be/23/5c/be235c4c5af5a3d50ffaca980d2bb2efdecf8e5b.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/be/6b/aa/be6baa790090e32455637efb5ea13d3c8d33e610.file.product_rule_group.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/be/db/7d/bedb7db72f3de56484513a2f05f79c07fbe061f5.file.productcomments_reviews.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bf/25/cd/bf25cdec0579ec4882a2e96edabb03c4d620c185.file.crossselling.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/bf/d2/f3/bfd2f3bc8c73ecac5345d71942bdbfb7c9ef1bbe.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c1/9d/8e/c19d8e4e7e4d7171ddac6e5a89d184b3fd6dbabc.file.nav.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c2/65/82/c265821a04f9937a07a7dfd183c015e31492a945.file.error.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c3/9d/b1/c39db13ea2785241c8cdc8a1e9ad8df1f17cbd38.file.tree_node_folder_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c3/b1/f2/c3b1f2f8e3ea3e963f91d74542d246a8abb0369c.file.tree_node_folder_checkbox.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c4/4c/3a/c44c3a8a0cab8b7c5aa533037a4e079201ed3c81.file.shipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c4/6d/94/c46d947bada1277cf940ab0940ec2a2cb06382e5.file.tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c6/c0/77/c6c0770b62267bcec37abb07057f17a9d1a5cd9d.file.modal_not_trusted_blocked.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c7/18/ab/c718ab0ef273159055a992b0c3584f916661a60f.file.order-opc-new-account-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c8/4d/3c/c84d3ca21c035b239a9317c341ab5dfce034bc36.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/c9/47/9a/c9479a9318405100f2b873475d6763a00163914a.file.order-carrier-opc-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ca/0e/f4/ca0ef4f0c980af1b0e14c904bfd33899eb5625c4.file.list_action_supply_order_change_state.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ca/c3/11/cac3117ceacc0d617486b5af82692bb078ae5f41.file.productcomments.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cb/3f/94/cb3f94499f43630fd1176c6e05e3630d4df0c2ef.file.summary.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cc/9d/46/cc9d464c741aa47bfa05420081cd3e74aa3973ac.file.message.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cd/a4/c3/cda4c3c10988874f8687cf14c2f41169445900ac.file.list_action_supply_order_create_from_template.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cd/d3/3f/cdd33f20704947342a91a828bf574ac09e566082.file.payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ce/5c/91/ce5c915bee7b0c8faebde57840201888219c2984.file.list_action_enable.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cf/1c/8e/cf1c8e4af6e2f865b054f16c0fc8392aec20f0e2.file.attachments.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cf/6c/59/cf6c59bd666f4ca5303bb9f2670e1aefef95bbc2.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/cf/77/2f/cf772f0b2d0174819f437bc5dcd1b97690621254.file.page_header_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d1/1b/55/d11b55661b07e5bf07945bf5a8904b92e8264285.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d1/8b/06/d18b06fd13f672dc4ce5ab50855d7df562be8a44.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d2/db/db/d2dbdb48db5a7f0f9fd6461c3f86e602e91a72e3.file.rules.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d2/ee/d2/d2eed24f753dbafbe539cf40ea965a5ecde57f4a.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.file.homeslider.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d5/2f/d4/d52fd4554369bae6e4e33ae43abe51f196821f5e.file.list_action_details.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d5/da/e8/d5dae8af6b244ec098ff691a6720583c61748d67.file.productcomments-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d7/93/73/d793736994597f5b3a2dd18b2e48181f8bcbf9de.file.list_action_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d7/d9/87/d7d987de7ed275087be1aae8ee806e10a13b2a05.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d8/93/8d/d8938dc2ce1529fd18e72eb0a9b1c336359fc273.file.form_date_range_picker.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d8/ac/0e/d8ac0ecbe43acd1cceedaceb51e7746686e09c02.file.order-address-advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/d9/81/ca/d981caae351f67ff8f41a4cb32a8a2088bedb678.file.invalid_token.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/db/60/41/db6041d611b5e7d52d7c4b6ba048f080c5216534.file.confirmation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/db/b4/0c/dbb40c6f26b0a1d53d86147a949e86dc8d57cda2.file.payment_execution.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/dd/41/56/dd415603461d5efa6ddeac03028d99fea7dee583.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/dd/8d/f3/dd8df396a381ccb45dbed0d46fa13ee7757fc9a2.file.form_settings.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/df/79/74/df7974f67ee875d98b133906332480837859bf62.file._select_payment.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.file.blockspecials.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.file.blockcategories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e4/7c/78/e47c7878d3d0b0c248b0d35b5244e2e167ee5489.file.list_action_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e4/7e/8e/e47e8e3c73f3cd95b39fa3833f49f660fbff6dc4.file.images.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e4/aa/61/e4aa61456509182703c5e40fa1030404d9d10430.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e4/ec/b0/e4ecb05ca51d7100ade22639442fcf570bdc8aa0.file.features.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/35/4c/e7354c081bd4269839375d6e197ae70dc5f9c75b.file.blockmyaccountfooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/d0/13/e7d013c9cf2a0aabec66f8eed8e257271f57be51.file.blockcmsinfo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/fe/4d/e7fe4dd241d0c1e0f90d0d565098e8302016d76d.file.modal_translation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e8/60/d9/e860d91de11d986e86d670123d0990cad433e7f2.file.carriercompare.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/e9/91/db/e991db2e554d0a9b7a8f3ef085e4e082593224ea.file.favoriteproducts-extra.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ea/3a/84/ea3a841298476beb23a19106f423a99d2c722da2.file.informations.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/eb/48/e6/eb48e6e58142696f238deb5cf6ef2b241ae02fb5.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ec/66/fe/ec66fe6eab2dd091c69a767a9dec43ba0b248dbc.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.file.blockcategories_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/60/bc/ed60bc8c76b22d33173cec5554a28ae0a2e8fa12.file.live_configurator.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/96/d4/ed96d4e58e8f6b0126f619eed8920446ccf50d69.file.form_submit_ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/c9/02/edc902317a1e1f70f4fb83069b35e6af87e0f5e8.file.tree_shops.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ee/4f/05/ee4f057d245a33374b6f0ca8a3a3c1969ecae227.file.authentication.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ef/18/d8/ef18d83cd8f54fce597932ec0a9d232f1d682e97.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ef/62/de/ef62deebf7febf03826a950de1c7a1b83fc93903.file.quantities.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ef/ed/8f/efed8f339ea8b35d2d949651192bb932ef1e8a95.file.category-tree-branch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f0/54/06/f05406f0d6593b62f60a5886f47705eb63c823cc.file._customized_data.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f2/13/07/f213077304c04890f5cc1da07097d43db7a3e171.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f2/4d/b6/f24db6f4623392c0ddc40f101ae5de90758b162d.file.order-address-multishipping.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f3/7a/1b/f37a1b9df57d71eb3a6b525faff623859609ead1.file.email.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f4/a2/81/f4a2816454bdf49777f182856ada6937d1249917.file.blocksearch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f6/4b/af/f64bafc381cd479aee694392526cd015020a001d.file.list_action_duplicate.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f6/5a/53/f65a530176a4f6dcad81fccba470a9fbb17a4122.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f6/c6/d4/f6c6d40adc02986864ea19e9ce1479903a6f3194.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f6/fe/9d/f6fe9d34168093cbae4998fd0bbb4a4c5665b54f.file.list_action_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.file.product-list-colors.tpl.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f7/6a/5c/f76a5c8f397fe787d2d677387ec53259ab5b1256.file.product-list-colors.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/f8/e7/93/f8e793135827772d1ea7c078d99503fe8e64bb00.file.order-opc-new-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/fb/9f/7f/fb9f7f365cf2a4de86c2ad31bd10dc98043cfb57.file.my-account.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/fb/d4/f5/fbd4f53a66ae0bbe130b5d6b651f68dabac53ecd.file.restricted-country.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/fe/4d/27/fe4d27dfc62e09a90b40e9ec2148327120fe2ace.file.order-opc.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/fe/b0/34/feb034264cf0cc352000889a2cbce177fdbd3b6a.file.tree_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/compile/ff/82/e1/ff82e1b15180f9a543a88942ac1955b198120d8e.file.timeline_item.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/themeconfigurator/img/banner-img6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/themeconfigurator/img/banner-img7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/translations/vn.gzip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/00/3b/7c/003b7cdb048f8e2006fa55f9d0c596ae9dd432db.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/00/3b/7c/003b7cdb048f8e2006fa55f9d0c596ae9dd432db.file.dashboard_zone_two.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/00/df/bf/00dfbf5a4db0f67899ea3302d5374c059934c746.file.store_infos.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/00/df/bf/00dfbf5a4db0f67899ea3302d5374c059934c746.file.store_infos.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/01/0e/3a/010e3a3a41d6303d7b7ebf13eda019374e4a29fa.file.homefeatured.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/01/0e/3a/010e3a3a41d6303d7b7ebf13eda019374e4a29fa.file.homefeatured.tpl.cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/logo.png__" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/header.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/css/luanmodule.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/js/luanmodule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/luanmodule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/luanmodule.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopdaudua_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translations/en.gzip" afterPath="$PROJECT_DIR$/translations/en.gzip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/01/dd/a8/01dda85fb996ac6199a66d9ccffe756d670ff3c1.file.hook.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/01/dd/a8/01dda85fb996ac6199a66d9ccffe756d670ff3c1.file.hook.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/03/2e/9f/032e9f24cf42c666c56b53efe3ee7acdbebdab3e.file.order-slip.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/03/2e/9f/032e9f24cf42c666c56b53efe3ee7acdbebdab3e.file.order-slip.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/04/cc/6b/04cc6bfd302c6cfa7d83181e0bb32a14be790e6b.file.blockbestsellers-home.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/04/cc/6b/04cc6bfd302c6cfa7d83181e0bb32a14be790e6b.file.blockbestsellers-home.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/0a/7a/d8/0a7ad84681378c254ade536da863c03bca643478.file.tab.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/0a/7a/d8/0a7ad84681378c254ade536da863c03bca643478.file.tab.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/11/23/57/1123573abcfa68a6d62cc75752809d83474c4c20.file.crossselling.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/11/23/57/1123573abcfa68a6d62cc75752809d83474c4c20.file.crossselling.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/11/d2/27/11d2276dd848dcab56dee4942ba71517e132263c.file.blockcart.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/11/d2/27/11d2276dd848dcab56dee4942ba71517e132263c.file.blockcart.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/15/13/16/151316892f4aa1e155631e7c9ca435d4f6b46212.file.order-detail.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/15/13/16/151316892f4aa1e155631e7c9ca435d4f6b46212.file.order-detail.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/19/54/b0/1954b05c86aa5ecfc83a97086a9fd64e4e8fab70.file.list_action_enable.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/19/54/b0/1954b05c86aa5ecfc83a97086a9fd64e4e8fab70.file.list_action_enable.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/1d/4f/22/1d4f224527a01b1fc96ff1a59859e524d57922ae.file.product.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/1d/4f/22/1d4f224527a01b1fc96ff1a59859e524d57922ae.file.product.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/1d/7f/af/1d7fafb79012cab69d73ce4b73c340a66a14b655.file.modal.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/1d/7f/af/1d7fafb79012cab69d73ce4b73c340a66a14b655.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.file.blocktopmenu.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/1f/65/4a/1f654abeeca429254a4499798866ebc48fb4dda9.file.blocktopmenu.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/20/3c/b0/203cb0a6ca0d97a6b968f33710dd844610d84e46.file.blockstore.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/20/3c/b0/203cb0a6ca0d97a6b968f33710dd844610d84e46.file.blockstore.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/27/6a/a4/276aa434e15147e2d1dcf80fe304380a3ca7b59f.file.modal.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/27/6a/a4/276aa434e15147e2d1dcf80fe304380a3ca7b59f.file.modal.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/28/b4/54/28b45499188f3f5f1fafbfc8a5a26f916a5c00bf.file.list_content.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/28/b4/54/28b45499188f3f5f1fafbfc8a5a26f916a5c00bf.file.list_content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/2d/1c/2e/2d1c2edfca0175d5521c63cd1c8a581294ea46de.file.product-compare.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/2d/1c/2e/2d1c2edfca0175d5521c63cd1c8a581294ea46de.file.product-compare.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/2e/19/4c/2e194c6561b7f1d3fa158375e030a95ec408e80e.file.layout.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/2e/19/4c/2e194c6561b7f1d3fa158375e030a95ec408e80e.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/2e/b7/05/2eb705ed47639b739e973600d73d29714ae17c67.file.blockuserinfo.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/2e/b7/05/2eb705ed47639b739e973600d73d29714ae17c67.file.blockuserinfo.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.file.socialsharing.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/2f/75/b2/2f75b2aa54137cf13d92c79e8c8ef0c99cb5dcf0.file.socialsharing.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/31/26/2e/31262ec88ed032031e25f5a6d70e5f42d3451dd4.file.list_footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/31/26/2e/31262ec88ed032031e25f5a6d70e5f42d3451dd4.file.list_footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/34/e9/c3/34e9c3a656408e3e189adf01a59e36d9690ab8a4.file.stores.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/34/e9/c3/34e9c3a656408e3e189adf01a59e36d9690ab8a4.file.stores.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/35/0b/23/350b23b75979fda6473cedf509af78af0423cc84.file.config.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/35/0b/23/350b23b75979fda6473cedf509af78af0423cc84.file.config.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/35/c8/67/35c86722be80396cd7086ad4446ed14fd601c9e5.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/35/c8/67/35c86722be80396cd7086ad4446ed14fd601c9e5.file.search_form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/36/86/ff/3686ffff8dbd9a7cec4aff90cb4cc76091cf9d60.file.view.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/36/86/ff/3686ffff8dbd9a7cec4aff90cb4cc76091cf9d60.file.view.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/37/39/7b/37397b74dae291b0a0f150ab2d48d20039e1abc4.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/37/39/7b/37397b74dae291b0a0f150ab2d48d20039e1abc4.file.notification_bt.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/38/a6/3e/38a63e4f855af98a3212df0e6571412628c5768d.file.header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/38/a6/3e/38a63e4f855af98a3212df0e6571412628c5768d.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/39/83/2b/39832b3a0d42ca6e9e9b96633403f475122d224b.file.order-carrier.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/39/83/2b/39832b3a0d42ca6e9e9b96633403f475122d224b.file.order-carrier.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/39/cc/4d/39cc4ddeef2969f73516269fce5155c726ebde34.file.header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/39/cc/4d/39cc4ddeef2969f73516269fce5155c726ebde34.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/40/fe/df/40fedf400bf57da0e690d633383658e750968b22.file.blocknewproducts.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/40/fe/df/40fedf400bf57da0e690d633383658e750968b22.file.blocknewproducts.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/42/e7/d2/42e7d243c830cba509556b3317e937ad440404c9.file.backoffice_top.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/42/e7/d2/42e7d243c830cba509556b3317e937ad440404c9.file.backoffice_top.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/49/1a/ef/491aef3461b048221743bfce4f3f12bf36d85eed.file.blockcms.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/49/1a/ef/491aef3461b048221743bfce4f3f12bf36d85eed.file.blockcms.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/49/e2/b9/49e2b9317f6efa5733f3473337a6e43baa689a8e.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/49/e2/b9/49e2b9317f6efa5733f3473337a6e43baa689a8e.file.javascript.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/4e/82/76/4e827667fbcb2cd99d3daf939a3fb253c99fa46c.file.blocknewproducts_home.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/4e/82/76/4e827667fbcb2cd99d3daf939a3fb253c99fa46c.file.blocknewproducts_home.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/55/58/da/5558dabaef51dc100fb379358d767a31e78eaedb.file.blockmyaccount.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/55/58/da/5558dabaef51dc100fb379358d767a31e78eaedb.file.blockmyaccount.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/55/59/e5/5559e5f3c95760850d25306b47739a486d98ea85.file.product-sort.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/55/59/e5/5559e5f3c95760850d25306b47739a486d98ea85.file.product-sort.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/55/ef/de/55efde974d9465ad129495969046b950f63c7020.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/55/ef/de/55efde974d9465ad129495969046b950f63c7020.file.dashboard_zone_two.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/59/d0/d9/59d0d9c28b77d63ded0baf6fbfdc226c2be92fe7.file.category.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/59/d0/d9/59d0d9c28b77d63ded0baf6fbfdc226c2be92fe7.file.category.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/5c/4b/9a/5c4b9aef804e5cb40ea35247e361ea4a34795f25.file.nav.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/5c/4b/9a/5c4b9aef804e5cb40ea35247e361ea4a34795f25.file.nav.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/5c/ed/90/5ced90466e458c6f8ced65ec196150b9b1301242.file.products-comparison.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/5c/ed/90/5ced90466e458c6f8ced65ec196150b9b1301242.file.products-comparison.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/5d/c1/c0/5dc1c0c7c1d43862a7f7b9963d877ef6a16b8337.file.history.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/5d/c1/c0/5dc1c0c7c1d43862a7f7b9963d877ef6a16b8337.file.history.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/5e/73/26/5e73268419411d4ccea6457623570305b9576ca4.file.tab.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/5e/73/26/5e73268419411d4ccea6457623570305b9576ca4.file.tab.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/61/64/65/6164658278559746c3c1cd82c0da1d7a6b991ff0.file.blocksearch-top.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/61/64/65/6164658278559746c3c1cd82c0da1d7a6b991ff0.file.blocksearch-top.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/61/64/65/6164658278559746c3c1cd82c0da1d7a6b991ff0.file.blocksearch-top.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/61/64/65/6164658278559746c3c1cd82c0da1d7a6b991ff0.file.blocksearch-top.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/65/4b/4f/654b4fe013ae84e1d6f56a0ec1a0e50c208276ae.file.blockcart-json.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/65/4b/4f/654b4fe013ae84e1d6f56a0ec1a0e50c208276ae.file.blockcart-json.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/65/e8/0c/65e80cd36a9d2a28993dc1a83f3c1d6ca4bd6fee.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/65/e8/0c/65e80cd36a9d2a28993dc1a83f3c1d6ca4bd6fee.file.dashboard_zone_one.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/68/c6/4e/68c64e6792767872dc5f2a90decc99d26d0bc1ff.file.list_action_delete.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/68/c6/4e/68c64e6792767872dc5f2a90decc99d26d0bc1ff.file.list_action_delete.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/69/05/47/6905473663f3e701e1ee2b5ec7488fb5b516a88a.file.nav.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/69/05/47/6905473663f3e701e1ee2b5ec7488fb5b516a88a.file.nav.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/6b/b1/12/6bb112a628723f6a051c298142db0bcb6e1cbe50.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/6b/b1/12/6bb112a628723f6a051c298142db0bcb6e1cbe50.file.login_addons.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/6b/fb/15/6bfb1507dc0c9da06b5c105d18c81950b5561faf.file.identity.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/6b/fb/15/6bfb1507dc0c9da06b5c105d18c81950b5561faf.file.identity.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/6c/33/c6/6c33c6431160ca558e56acfc5efa0e69216c7d74.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/6c/33/c6/6c33c6431160ca558e56acfc5efa0e69216c7d74.file.list_header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/71/24/ca/7124ca6fd4366b95916ace78dd83b6b10d6cb86b.file.breadcrumb.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/71/24/ca/7124ca6fd4366b95916ace78dd83b6b10d6cb86b.file.breadcrumb.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/71/e8/eb/71e8eb7215936116436dadc692860eb6dae532a0.file.category-count.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/71/e8/eb/71e8eb7215936116436dadc692860eb6dae532a0.file.category-count.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/76/23/d5/7623d515ea34d62a69c130c17b90c9ae66de9890.file.footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/76/23/d5/7623d515ea34d62a69c130c17b90c9ae66de9890.file.footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/78/44/46/784446e91135732170b8d1dd1a0099bb12e86b9b.file.blockcontactinfos.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/78/44/46/784446e91135732170b8d1dd1a0099bb12e86b9b.file.blockcontactinfos.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/7c/57/f2/7c57f29f1283d42a746c492c690dd97bde17b8f1.file.list.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/7c/57/f2/7c57f29f1283d42a746c492c690dd97bde17b8f1.file.list.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/7f/98/5d/7f985d032f01f030871334e7ce51e2c206e432fb.file.addresses.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/7f/98/5d/7f985d032f01f030871334e7ce51e2c206e432fb.file.addresses.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.file.socialsharing_header.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/81/fb/8a/81fb8a5af062d5cdfecc22a6b55ea3da894a76de.file.socialsharing_header.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/82/3d/f9/823df9bc068c45a5c6d2bc4ad57888e961678c1a.file.404.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/82/3d/f9/823df9bc068c45a5c6d2bc4ad57888e961678c1a.file.404.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/84/a1/fd/84a1fde595ddda3036918978f0def59c7ebdc61e.file.tab.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/84/a1/fd/84a1fde595ddda3036918978f0def59c7ebdc61e.file.tab.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/86/0b/18/860b18c70344de2b1e42f82fda68f21d81e793a5.file.content.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/86/0b/18/860b18c70344de2b1e42f82fda68f21d81e793a5.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/88/f9/ce/88f9ce27d0e090ef464be569ed769894e9b7aff2.file.form.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/88/f9/ce/88f9ce27d0e090ef464be569ed769894e9b7aff2.file.form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/8a/dd/d5/8addd53366202473f2b579f8439a8af3e72f21af.file.footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/8a/dd/d5/8addd53366202473f2b579f8439a8af3e72f21af.file.footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/90/39/7e/90397edb4d156bb324fa618fcf282a57c3acc72c.file.product-list.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/90/39/7e/90397edb4d156bb324fa618fcf282a57c3acc72c.file.product-list.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/90/39/7e/90397edb4d156bb324fa618fcf282a57c3acc72c.file.product-list.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/90/39/7e/90397edb4d156bb324fa618fcf282a57c3acc72c.file.product-list.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/92/23/41/922341ee96e7d1e757cd5b143ea0afca76c3c8b0.file.blocksocial.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/92/23/41/922341ee96e7d1e757cd5b143ea0afca76c3c8b0.file.blocksocial.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/92/a0/c0/92a0c074bbf42a06daa075b381df0fba88738b53.file.order-address.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/92/a0/c0/92a0c074bbf42a06daa075b381df0fba88738b53.file.order-address.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/92/ba/54/92ba54cbdf4b91dd54d84a0d4c1d83777862b6e3.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/92/ba/54/92ba54cbdf4b91dd54d84a0d4c1d83777862b6e3.file.calendar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/93/39/8c/93398c012d5f9463dd4bc27a011e46fde15e8194.file.blockviewed.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/93/39/8c/93398c012d5f9463dd4bc27a011e46fde15e8194.file.blockviewed.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/9b/8a/db/9b8adba49a381257f8a6806db82d5f7a14cbcbd6.file.header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/9b/8a/db/9b8adba49a381257f8a6806db82d5f7a14cbcbd6.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/9f/58/6a/9f586a387c62a598de647f80f81cd6b3d8693c5d.file.errors.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/9f/58/6a/9f586a387c62a598de647f80f81cd6b3d8693c5d.file.errors.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/a6/87/31/a68731720cc3e712763bdadff8b5fb588a6bae52.file.shopping-cart.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/a6/87/31/a68731720cc3e712763bdadff8b5fb588a6bae52.file.shopping-cart.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/a8/9b/10/a89b10d646e5c17b7f63d5fa20186ee8d1210c4d.file.layout.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/a8/9b/10/a89b10d646e5c17b7f63d5fa20186ee8d1210c4d.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/a8/9d/db/a89ddb3a2f2b6550a1e9c9af2b73c78c07de0ba4.file.contact-form.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/a8/9d/db/a89ddb3a2f2b6550a1e9c9af2b73c78c07de0ba4.file.contact-form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/ab/a2/1b/aba21b0de3cf2efdb2fd49263eaf73642323e47f.file.order-steps.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/ab/a2/1b/aba21b0de3cf2efdb2fd49263eaf73642323e47f.file.order-steps.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b0/c4/91/b0c49175e325d1e8603aeb5accb5e458bbb390af.file.blockfacebook.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b0/c4/91/b0c49175e325d1e8603aeb5accb5e458bbb390af.file.blockfacebook.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/1b/7f/b31b7f5bb26dd3cfa41c5798e6a4e0c1d3cd18a8.file.tab.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b3/1b/7f/b31b7f5bb26dd3cfa41c5798e6a4e0c1d3cd18a8.file.tab.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b3/fc/e6/b3fce62cf2554d0cd43d50147b5f99243de2dad9.file.nav.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b3/fc/e6/b3fce62cf2554d0cd43d50147b5f99243de2dad9.file.nav.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b6/00/22/b60022d87bd47da09a97ab2d055402702aad5646.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b6/00/22/b60022d87bd47da09a97ab2d055402702aad5646.file.page_header_toolbar.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b6/47/08/b64708a7fb2b769f4680b4b786435f39bfe43aa6.file.view.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b6/47/08/b64708a7fb2b769f4680b4b786435f39bfe43aa6.file.view.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b6/be/ad/b6beadf878dc837dcfbd3ace67709ae709fbbf16.file.options.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b6/be/ad/b6beadf878dc837dcfbd3ace67709ae709fbbf16.file.options.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b7/ea/e5/b7eae5000afc126e58315e9229f52d15df92aac4.file.content.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b7/ea/e5/b7eae5000afc126e58315e9229f52d15df92aac4.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/b8/be/a2/b8bea23e8d4aaab6cb03b5aaa6cf06979626c871.file.cms.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/b8/be/a2/b8bea23e8d4aaab6cb03b5aaa6cf06979626c871.file.cms.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/be/13/40/be1340a13db78ac83befeecd1840842866880cb1.file.blockspecials-home.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/be/13/40/be1340a13db78ac83befeecd1840842866880cb1.file.blockspecials-home.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.php" afterPath="$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl" afterPath="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" afterPath="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/c3/50/2c/c3502c0187e7d74066895362887d0b5a2b308751.file.global.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/c3/50/2c/c3502c0187e7d74066895362887d0b5a2b308751.file.global.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/c3/56/d0/c356d04f936ee005093aa519182b262dd35fb2b9.file.options.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/c3/56/d0/c356d04f936ee005093aa519182b262dd35fb2b9.file.options.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/c5/64/7a/c5647ab6690962be52b7cb99160dc229af17b2ce.file.nbr-product-page.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/c5/64/7a/c5647ab6690962be52b7cb99160dc229af17b2ce.file.nbr-product-page.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/ce/68/db/ce68dbcd73cafe236f381e5ce240ef3e86691e3f.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/ce/68/db/ce68dbcd73cafe236f381e5ce240ef3e86691e3f.file.dashboard_zone_two.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/d0/d5/e1/d0d5e1c5af6b94808775adc222cd733261e5b141.file.search.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/d0/d5/e1/d0d5e1c5af6b94808775adc222cd733261e5b141.file.search.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Configuration.php" afterPath="$PROJECT_DIR$/classes/Configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Dispatcher.php" afterPath="$PROJECT_DIR$/classes/Dispatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/blog-en.xml" afterPath="$PROJECT_DIR$/config/xml/blog-en.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.file.homeslider.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.file.homeslider.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/d5/de/66/d5de66d8305ccbc7863d4ae54644945501694d7d.file.blocklanguages.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/d5/de/66/d5de66d8305ccbc7863d4ae54644945501694d7d.file.blocklanguages.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/d9/00/60/d900603c87ab9f1903aa3f6700924d727c4a4c4c.file.list_action_edit.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/d9/00/60/d900603c87ab9f1903aa3f6700924d727c4a4c4c.file.list_action_edit.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/de/08/bc/de08bc16ef2f9b2c79b056d81006b6274de30507.file.layout.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/de/08/bc/de08bc16ef2f9b2c79b056d81006b6274de30507.file.layout.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/df/e6/17/dfe61705a26d14039cb9a4dcd97105b0fe77aa1d.file.content.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/df/e6/17/dfe61705a26d14039cb9a4dcd97105b0fe77aa1d.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e0/66/0f/e0660f5143b1da760312e45220facd0a6c0af2c4.file.authentication.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e0/66/0f/e0660f5143b1da760312e45220facd0a6c0af2c4.file.authentication.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.file.blockspecials.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e0/76/14/e0761480ebad63dada76ec59581961f4789ba7a0.file.blockspecials.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e1/85/4e/e1854ea99a3a730e2c929aa224636b6b62178661.file.pagination.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e1/85/4e/e1854ea99a3a730e2c929aa224636b6b62178661.file.pagination.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e2/26/17/e22617d707827a7f246afd8056bc90034dcf2ec4.file.header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e2/26/17/e22617d707827a7f246afd8056bc90034dcf2ec4.file.header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e3/0b/0f/e30b0f77c5f799908bf79f504519c370cededc2f.file.index.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e3/0b/0f/e30b0f77c5f799908bf79f504519c370cededc2f.file.index.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.file.blockcategories.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e3/9d/ec/e39dece5e36575bd57c53809e8e9d4f1d2f623de.file.blockcategories.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e4/e5/3c/e4e53c0e3453a10027d5a0fc6291d6debaaf9582.file.shopping-cart-product-line.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e4/e5/3c/e4e53c0e3453a10027d5a0fc6291d6debaaf9582.file.shopping-cart-product-line.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e5/13/59/e513598bfda1b1663304a5378a4558499028a564.file.productpaymentlogos.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e5/13/59/e513598bfda1b1663304a5378a4558499028a564.file.productpaymentlogos.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/35/4c/e7354c081bd4269839375d6e197ae70dc5f9c75b.file.blockmyaccountfooter.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e7/35/4c/e7354c081bd4269839375d6e197ae70dc5f9c75b.file.blockmyaccountfooter.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/d0/13/e7d013c9cf2a0aabec66f8eed8e257271f57be51.file.blockcmsinfo.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e7/d0/13/e7d013c9cf2a0aabec66f8eed8e257271f57be51.file.blockcmsinfo.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e7/d9/b0/e7d9b0b59e4b93e6da82fb89c882c5518688172b.file.blocknewsletter.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e7/d9/b0/e7d9b0b59e4b93e6da82fb89c882c5518688172b.file.blocknewsletter.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/e9/04/78/e904781b056eab37643f863dd20aaa6d74041593.file.form.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/e9/04/78/e904781b056eab37643f863dd20aaa6d74041593.file.form.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.file.blockcategories_footer.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/ed/1b/cc/ed1bccfa15ddcae6b49a88b7564b7561d34e981b.file.blockcategories_footer.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/ed/b5/a8/edb5a822ae377714742e7789ce82e773c79aeea5.file.my-account.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/ed/b5/a8/edb5a822ae377714742e7789ce82e773c79aeea5.file.my-account.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/ef/ed/8f/efed8f339ea8b35d2d949651192bb932ef1e8a95.file.category-tree-branch.tpl.cache.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/ef/ed/8f/efed8f339ea8b35d2d949651192bb932ef1e8a95.file.category-tree-branch.tpl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/f1/6f/32/f16f32eac350e134d5f4598b460960091751e3db.file.blockcurrencies.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/f1/6f/32/f16f32eac350e134d5f4598b460960091751e3db.file.blockcurrencies.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/css/product_list.css" afterPath="$PROJECT_DIR$/themes/default-bootstrap/css/product_list.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/lang/vi.php" afterPath="$PROJECT_DIR$/themes/default-bootstrap/lang/vi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/compile/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.file.homeslider.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/compile/d3/7a/13/d37a1387199b348fe32a66d61e2b5836c9b24574.file.homeslider.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/css/modules/homeslider/homeslider.css" afterPath="$PROJECT_DIR$/themes/default-bootstrap/css/modules/homeslider/homeslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/homeslider/views/templates/hook/homeslider.tpl" afterPath="$PROJECT_DIR$/modules/homeslider/views/templates/hook/homeslider.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/homeslider.tpl" afterPath="$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/homeslider.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/supplier.tpl" afterPath="$PROJECT_DIR$/themes/default-bootstrap/supplier.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/tab_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/tab_modules_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hoang2.iws" />
@@ -524,97 +53,127 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="blockcart.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcart/blockcart.css">
+      <file leaf-file-name="luanmodule.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/luanmodule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-126.25">
+              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#90#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="luanmodule.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/luanmodule.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blockcontact.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="27" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="27" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product_list.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/product_list.css">
+      <file leaf-file-name="Configuration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/Configuration.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="180" column="33" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="33" />
+              <caret line="401" column="80" selection-start-line="401" selection-start-column="10" selection-end-line="401" selection-end-column="80" />
+              <folding>
+                <element signature="e#6#999#0#PHP" expanded="true" />
+                <marker date="1491458513000" expanded="true" signature="4433:4805" placeholder="SELECT c.`na..." />
+                <marker date="1491458513000" expanded="true" signature="6545:6648" placeholder="SELECT `valu..." />
+                <marker date="1491458513000" expanded="true" signature="18106:18419" placeholder="DELETE FROM ..." />
+                <marker date="1491458513000" expanded="true" signature="18480:18583" placeholder="DELETE FROM ..." />
+                <marker date="1491458513000" expanded="true" signature="19262:19384" placeholder="DELETE FROM ..." />
+                <marker date="1491458513000" expanded="true" signature="19442:19569" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vi.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/lang/vi.php">
+      <file leaf-file-name="blocksocial.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/blocksocial/blocksocial.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="799" column="79" selection-start-line="799" selection-start-column="79" selection-end-line="799" selection-end-column="79" />
+              <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vn.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/lang/vn.php">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="808" column="64" selection-start-line="808" selection-start-column="64" selection-end-line="808" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.23037542">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blocklanguages.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css">
+      <file leaf-file-name="luanmodule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/js/luanmodule.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#37#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blockcontactinfos.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/luanmodule/js/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blockcontactinfos.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6081081">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blockcategories_footer.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -629,7 +188,6 @@
       <list>
         <option value="$PROJECT_DIR$/themes/default-bootstrap/category-tree-branch.tpl" />
         <option value="$PROJECT_DIR$/cache/smarty/compile/59/d0/d9/59d0d9c28b77d63ded0baf6fbfdc226c2be92fe7.file.category.tpl.php" />
-        <option value="$PROJECT_DIR$/themes/default-bootstrap/category.tpl" />
         <option value="$PROJECT_DIR$/themes/default-bootstrap/product.tpl" />
         <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" />
         <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" />
@@ -643,6 +201,31 @@
         <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" />
         <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl" />
         <option value="$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.php" />
+        <option value="$PROJECT_DIR$/shopdaudua_notes" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/order-payment-classic.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/shopping-cart-product-line.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/shopping-cart.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcart/blockcart.tpl" />
+        <option value="$PROJECT_DIR$/classes/Cart.php" />
+        <option value="$PROJECT_DIR$/classes/tax/TaxCalculator.php" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/blocksocial/blocksocial.tpl" />
+        <option value="$PROJECT_DIR$/classes/Dispatcher.php" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/manufacturer.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/supplier.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/manufacturer-list.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/category.tpl" />
+        <option value="$PROJECT_DIR$/modules/themeconfigurator/views/templates/hook/hook.tpl" />
+        <option value="$PROJECT_DIR$/modules/homeslider/views/templates/hook/homeslider.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/homeslider.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/sass/modules/homeslider/homeslider.scss" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/homeslider/homeslider.css" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/luanmodule.tpl" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/css/luanmodule.css" />
+        <option value="$PROJECT_DIR$/classes/Configuration.php" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/footer.tpl" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/views/templates/hook/header.tpl" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/js/luanmodule.js" />
+        <option value="$PROJECT_DIR$/modules/luanmodule/luanmodule.php" />
       </list>
     </option>
   </component>
@@ -667,7 +250,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="736" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -720,46 +303,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -774,49 +317,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blockcontactinfos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoang2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default-bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blockcontactinfos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="translations" />
+              <option name="myItemId" value="themeconfigurator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -831,14 +336,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luanmodule" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -848,10 +357,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/luanmodule/views/templates/hook" />
+      <recent name="$PROJECT_DIR$/modules/luanmodule/js" />
+      <recent name="$PROJECT_DIR$/modules/luanmodule/css" />
+      <recent name="$PROJECT_DIR$/modules/luanmodule" />
       <recent name="$PROJECT_DIR$/database" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/luanmodule" />
     </key>
   </component>
   <component name="RunManager">
@@ -1148,7 +665,26 @@
       <workItem from="1489071241250" duration="620000" />
       <workItem from="1489112374352" duration="5342000" />
       <workItem from="1489131102434" duration="3563000" />
-      <workItem from="1489180457769" duration="48000" />
+      <workItem from="1489180457769" duration="1139000" />
+      <workItem from="1489279702740" duration="23000" />
+      <workItem from="1489471205622" duration="4827000" />
+      <workItem from="1489492164272" duration="376000" />
+      <workItem from="1489539938874" duration="3535000" />
+      <workItem from="1489973938151" duration="402000" />
+      <workItem from="1489976877390" duration="375000" />
+      <workItem from="1490003152741" duration="426000" />
+      <workItem from="1490285654204" duration="996000" />
+      <workItem from="1490333632429" duration="66000" />
+      <workItem from="1490951663517" duration="3377000" />
+      <workItem from="1491238738942" duration="2362000" />
+      <workItem from="1491342599047" duration="4209000" />
+      <workItem from="1491351104896" duration="746000" />
+      <workItem from="1491378782310" duration="2584000" />
+      <workItem from="1491391156819" duration="1483000" />
+      <workItem from="1491393138887" duration="966000" />
+      <workItem from="1491438856207" duration="3913000" />
+      <workItem from="1491452302647" duration="5735000" />
+      <workItem from="1491478892646" duration="1052000" />
     </task>
     <task id="LOCAL-00001" summary="update css to remove spaces. Update category and product.">
       <created>1488560680737</created>
@@ -1180,14 +716,26 @@
       <option name="project" value="LOCAL" />
       <updated>1489119641018</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="make some css updates and update blockcontactinfos">
+      <created>1489180571884</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489180571884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upload cache file">
+      <created>1489544563660</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489544563660</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20168000" />
+    <option name="totallyTimeSpent" value="58712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="736" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1196,7 +744,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1216,8 +764,37 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3203125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1236,7 +813,9 @@
     <MESSAGE value="add database" />
     <MESSAGE value="update css" />
     <MESSAGE value="add new db file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new db file" />
+    <MESSAGE value="make some css updates and update blockcontactinfos" />
+    <MESSAGE value="upload cache file" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload cache file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1247,363 +826,380 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7155" column="41" selection-start-line="7155" selection-start-column="41" selection-end-line="7155" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/product.tpl">
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/category-tree-branch.tpl">
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/category.tpl">
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/translations/vn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="468" column="31" selection-start-line="468" selection-start-column="31" selection-end-line="468" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/smarty/Smarty.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1170213">
+        <state vertical-scroll-proportion="-1.5515463">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/smarty/index.php">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/smarty/SmartyBC.class.php">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/ajax_homeslider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.593085">
+        <state vertical-scroll-proportion="-1.048969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/smarty/.htaccess">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/HomeSlide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.4845362">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/category-tree-branch.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/category.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="110" column="45" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/product-list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/order/OrderCartRule.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35278514">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="263" column="24" selection-start-line="263" selection-start-column="24" selection-end-line="263" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/localization/vn.xml">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/translations/vn/admin.php">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/hook/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/translations/vi/admin.php">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/hook/list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.92783505">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/smarty/compile/e2/26/17/e22617d707827a7f246afd8056bc90034dcf2ec4.file.header.tpl.php">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/admin/_configure/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44067797">
-          <caret line="232" column="91" selection-start-line="232" selection-start-column="91" selection-end-line="232" selection-end-column="91" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/blockcontact.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/views/css/font/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29005525">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/sass/modules/homeslider/homeslider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43041238">
+          <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/homeslider/homeslider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/homeslider/homeslider.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/bankwire/bankwire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homefeatured/homefeatured.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="89" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homefeatured/css/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/css/luanmodule.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/index.php">
+    <entry file="file://$PROJECT_DIR$/classes/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.463731">
+          <caret line="318" column="12" selection-start-line="318" selection-start-column="12" selection-end-line="328" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/multisafepay/multisafepay.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="450" column="50" selection-start-line="450" selection-start-column="50" selection-end-line="450" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcmsinfo/blockcmsinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35324675">
+          <caret line="290" column="32" selection-start-line="290" selection-start-column="32" selection-end-line="290" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/multisafepaybancontact/multisafepaybancontact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5038961">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/views/templates/admin/items.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="152" column="115" selection-start-line="152" selection-start-column="108" selection-end-line="152" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/smarty/plugins/modifier.escape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/helper/Helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33240223">
+          <caret line="142" column="98" selection-start-line="142" selection-start-column="97" selection-end-line="142" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/helper/HelperForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/admin/AdminModulesPositionsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="65" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="33" selection-start-line="156" selection-start-column="27" selection-end-line="156" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockadvertising/blockadvertising.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0921788">
+          <caret line="236" column="18" selection-start-line="236" selection-start-column="18" selection-end-line="236" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontact/blockcontact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7636364">
+          <caret line="74" column="34" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockbanner/blockbanner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08051948">
+          <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/themeconfigurator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1272727">
+          <caret line="321" column="20" selection-start-line="321" selection-start-column="20" selection-end-line="321" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blocksocial/blocksocial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/hook/homeslider.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025974026">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/views/templates/admin/_configure/helpers/form/form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6363636">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/password.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/homeslider/homeslider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.055866">
+          <caret line="785" column="38" selection-start-line="785" selection-start-column="38" selection-end-line="785" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/preview.jpg">
+    <entry file="file://$PROJECT_DIR$/modules/blockreinsurance/blockreinsurance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.34805194">
+          <caret line="208" column="12" selection-start-line="208" selection-start-column="12" selection-end-line="208" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Tools.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33246753">
+          <caret line="2647" column="27" selection-start-line="2647" selection-start-column="27" selection-end-line="2647" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="401" column="80" selection-start-line="401" selection-start-column="10" selection-end-line="401" selection-end-column="80" />
+          <folding>
+            <element signature="e#6#999#0#PHP" expanded="true" />
+            <marker date="1491458513000" expanded="true" signature="4433:4805" placeholder="SELECT c.`na..." />
+            <marker date="1491458513000" expanded="true" signature="6545:6648" placeholder="SELECT `valu..." />
+            <marker date="1491458513000" expanded="true" signature="18106:18419" placeholder="DELETE FROM ..." />
+            <marker date="1491458513000" expanded="true" signature="18480:18583" placeholder="DELETE FROM ..." />
+            <marker date="1491458513000" expanded="true" signature="19262:19384" placeholder="DELETE FROM ..." />
+            <marker date="1491458513000" expanded="true" signature="19442:19569" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/logo.png__">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/index.php">
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/js/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/js/luanmodule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/luanmodule.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/index.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/live_edit.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.43589744">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/cms.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2820513">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/tmp/1ac2c36ab1ab0ad263890cd1f4315978.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/tmp/0c3cb4cc8af4a186721a9e22863a8c23.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockstore/blockstore.tpl">
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/luanmodule.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state vertical-scroll-proportion="-126.25">
+          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css">
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="23" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6503" column="36" selection-start-line="6503" selection-start-column="36" selection-end-line="6503" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/product_list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="180" column="33" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="33" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/lang/vi.php">
+    <entry file="file://$PROJECT_DIR$/modules/luanmodule/views/templates/hook/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="799" column="79" selection-start-line="799" selection-start-column="79" selection-end-line="799" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/lang/vn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="808" column="64" selection-start-line="808" selection-start-column="64" selection-end-line="808" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcart/blockcart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/css/theme3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63144964">
-          <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/blockcontact/blockcontact.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.52741516">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/blockcontact/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/translations/vn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6081081">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.23037542">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>

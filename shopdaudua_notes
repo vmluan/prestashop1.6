@@ -1,0 +1,6 @@
+-- useful commands:
+1. import database:
+mysql> create database shopdaudua default character set utf8;
+$ mysql -u root -p shopdaudua < /var/www/html/shopdaudua/database/db_2017_03_10.sql
+
+mysql > update ps_shop_url set domain = 'lovad.dyndns.org/shopdaudua', domain_ssl='lovad.dyndns.org/shopdaudua', physical_uri = 'shopdaudua';

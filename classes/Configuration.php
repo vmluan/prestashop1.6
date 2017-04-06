@@ -399,7 +399,7 @@ class ConfigurationCore extends ObjectModel
             }
             unset($value);
         }
-
+        //echo "<script>console.log( 'submit luanmodule ' + $values);</script>";
         $result = true;
         foreach ($values as $lang => $value) {
             $stored_value = Configuration::get($key, $lang, $id_shop_group, $id_shop);

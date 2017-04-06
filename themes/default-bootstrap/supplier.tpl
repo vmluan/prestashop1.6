@@ -25,7 +25,7 @@
 
 {include file="$tpl_dir./errors.tpl"}
 
-{if !isset($errors) OR !sizeof($errors)}
+{if !isset($errors) OR !sizeof($errors)}abcde
 	<h1 class="page-heading product-listing">
 		{l s='List of products by supplier:'}&nbsp;{$supplier->name|escape:'html':'UTF-8'}
 	</h1>

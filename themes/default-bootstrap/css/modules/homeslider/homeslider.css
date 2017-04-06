@@ -70,7 +70,9 @@
     height: auto; }
   #homepage-slider .bx-wrapper .bx-viewport {
     width: 100%;
-    direction: ltr !important; }
+    direction: ltr !important;
+    height: 290px !important;
+  }
   #homepage-slider .bx-wrapper .bx-pager.bx-default-pager a {
     background: #666; }
   #homepage-slider .bx-wrapper .bx-controls-direction a {

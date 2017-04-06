@@ -255,6 +255,8 @@ class DispatcherCore
     {
         $controller_class = '';
 
+        PrestaShopLoggerCore::addLog('Luan dispatch '. $this->getController(), '1');
+
         // Get current controller
         $this->getController();
         if (!$this->controller) {
